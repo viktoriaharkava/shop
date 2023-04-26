@@ -1,0 +1,14 @@
+.goods-item{
+    width: 400px;
+    border: 2px solid greenyellow
+}
+img{
+    width: 100%;
+}
+.goods-list{
+    display: flex;
+    flex-wrap: wrep;
+    list-style: none;
+    gap: 30 px;
+    justify-content: center;
+}
